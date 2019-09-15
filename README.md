@@ -30,7 +30,7 @@ Despite the utility and benefits of omnidirectional images in robotics and autom
 [![](https://img.youtube.com/vi/CBdTe2YxH_k/0.jpg)](https://www.youtube.com/watch?v=CBdTe2YxH_k)
 
 ## Dataset Release
-The dataset and tools will be provided in stages as soon as the article is published. Please fulfill this form [This Form](https://forms.gle/XSrUSsnwGPcyhv2B9 ) if you are interested in the Dataset, the first release will be sent to you as soon as the article published.   
+The dataset and tools will be provided in stages as soon as the article is published. Please fulfill [This Form](https://forms.gle/XSrUSsnwGPcyhv2B9 ) if you are interested in the Dataset, the first release will be sent to you as soon as the article published.   
 
 
 
