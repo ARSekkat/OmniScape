@@ -23,10 +23,10 @@ Despite the utility and benefits of omnidirectional images in robotics and autom
 ### CARLA simulator 
 
 ### GTA V
-1. A sequence of fisheye stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the chassis of a motorcycle, one is positioned on the right side of the  motorcycle and the other one on the left side.  
+__1.__ A sequence of fisheye stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the chassis of a motorcycle, one is positioned on the right side of the  motorcycle and the other one on the left side.  
 [![](https://img.youtube.com/vi/1mCME0B03jw/0.jpg)](https://www.youtube.com/watch?v=1mCME0B03jw)
 
-2. A sequence of catadioptric stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the roof of a car, positioned one above the other.  
+__2.__ A sequence of catadioptric stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the roof of a car, positioned one above the other.  
 [![](https://img.youtube.com/vi/CBdTe2YxH_k/0.jpg)](https://www.youtube.com/watch?v=CBdTe2YxH_k)
 
 ## Dataset Release
