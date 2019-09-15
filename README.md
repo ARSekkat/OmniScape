@@ -5,7 +5,7 @@
 
 ## Paper (Submitted to RA-L and ICRA)
 
-__The OmniScape Dataset__
+### __The OmniScape Dataset__
 
 __Ahmed Rida Sekkat__, Normandie Univ, UNIROUEN, LITIS, Rouen, France, ahmed-rida.sekkat@univ-rouen.fr  
 Yohan Dupuis, Normandie Univ, UNIROUEN, ESIGELEC, IRSEEM, Rouen, France  
