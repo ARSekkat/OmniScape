@@ -18,9 +18,9 @@ Despite the utility and benefits of omnidirectional images in robotics and autom
 ![](images/OmniScape.png )
 
 
-## Teasers 
+## Teasers
 
-### CARLA simulator 
+### CARLA simulator: 
 
 __1.__ A sequence of fisheye stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the two front sides of a motorcycle.
 [![](https://img.youtube.com/vi/videocode/0.jpg)](https://www.youtube.com/watch?v=videocode)
@@ -32,7 +32,7 @@ The images are provided in different weather conditions:
 ![](images/FisheyeFront_WeatherChange.gif)
 ![](images/CatadioptricUp_WeatherChange.gif)
 
-### GTA V
+### GTA V:
 __1.__ A sequence of fisheye stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the two front sides of a motorcycle.
 [![](https://img.youtube.com/vi/1mCME0B03jw/0.jpg)](https://www.youtube.com/watch?v=1mCME0B03jw)
 
