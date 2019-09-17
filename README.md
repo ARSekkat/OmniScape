@@ -34,10 +34,10 @@ The images are provided in different weather conditions:
 
 ### GTA V:
 __1.__ A sequence of fisheye stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the two front sides of a motorcycle.
-[![](https://img.youtube.com/vi/1mCME0B03jw/0.jpg)](https://www.youtube.com/watch?v=1mCME0B03jw)
+[![](https://img.youtube.com/vi/TndNQuGZv4A/0.jpg)](https://www.youtube.com/watch?v=TndNQuGZv4A)
 
 __2.__ A sequence of catadioptric stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the roof of a car, positioned one above the other.  
-[![](https://img.youtube.com/vi/CBdTe2YxH_k/0.jpg)](https://www.youtube.com/watch?v=CBdTe2YxH_k)
+[![](https://img.youtube.com/vi/L2JfevOPlTg/0.jpg)](https://www.youtube.com/watch?v=L2JfevOPlTg)
 
 ## Dataset Release
 The dataset and tools will be provided in stages as soon as the article is published.  
