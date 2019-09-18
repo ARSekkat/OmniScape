@@ -45,7 +45,7 @@ __2.__ A sequence of catadioptric stereo images, divided on subsequences where i
 ## Dataset Release
 The dataset and tools will be provided in stages as soon as the article is published.  
   
-Please fulfill [This Form](https://forms.gle/XSrUSsnwGPcyhv2B9 ) if you are interested in the Dataset.   
+If you are interested in The OmniScape Dataset, please fulfill [This Form](https://forms.gle/XSrUSsnwGPcyhv2B9) to receive the first release.
 
 
 
