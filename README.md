@@ -31,7 +31,7 @@ __2.__ Two sequences of catadioptric stereo images, divided on subsequences wher
 [![](https://img.youtube.com/vi/Lcy9N5id6Uo/0.jpg)](https://www.youtube.com/watch?v=Lcy9N5id6Uo)
 
 
-The images are provided in different weather conditions:
+*The images are provided in different weather conditions:*
 ![](images/FisheyeFront_WeatherChange.gif)
 ![](images/CatadioptricUp_WeatherChange.gif)
 
