@@ -1,7 +1,7 @@
 # __The OmniScape Dataset__
 
 ## News
-...
+! UNDER CONSTRUCTION ! ! UNDER CONSTRUCTION ! ! UNDER CONSTRUCTION !
 
 ## Paper (Submitted to RA-L and ICRA)
 
