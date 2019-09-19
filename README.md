@@ -32,8 +32,7 @@ __2.__ Two sequences of catadioptric stereo images, divided on subsequences wher
 
 
 *The images are provided in different weather conditions:*
-![](images/FisheyeFront_WeatherChange.gif)
-![](images/CatadioptricUp_WeatherChange.gif)
+![](images/WeatherChanges.gif)
 
 ### GTA V:
 __1.__ A sequence of fisheye stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the two front sides of a motorcycle.
