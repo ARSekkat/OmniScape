@@ -23,12 +23,12 @@ Despite the utility and benefits of omnidirectional images in robotics and autom
 ### CARLA simulator: 
 
 __1.__ Two sequences of fisheye stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the two front sides of a motorcycle.
-[![](https://img.youtube.com/vi/lGUZWL54UVA/0.jpg)](https://www.youtube.com/watch?v=lGUZWL54UVA)
-[![](https://img.youtube.com/vi/mkygXr6C_ls/0.jpg)](https://www.youtube.com/watch?v=mkygXr6C_ls)
+[![](https://img.youtube.com/vi/mPKxEr0iAtg/0.jpg)](https://www.youtube.com/watch?v=mPKxEr0iAtg)
+[![](https://img.youtube.com/vi/Ob8ktcU_MWM/0.jpg)](https://www.youtube.com/watch?v=Ob8ktcU_MWM)
 
 __2.__ Two sequences of catadioptric stereo images, divided on subsequences where is shown the depth map then the semantic segmentation. The cameras are placed on the two front sides of a motorcycle.
-[![](https://img.youtube.com/vi/lCeCnO9cupk/0.jpg)](https://www.youtube.com/watch?v=lCeCnO9cupk)
-[![](https://img.youtube.com/vi/98G5GLOPt9c/0.jpg)](https://www.youtube.com/watch?v=98G5GLOPt9c)
+[![](https://img.youtube.com/vi/JY4yysszPI4/0.jpg)](https://www.youtube.com/watch?v=JY4yysszPI4)
+[![](https://img.youtube.com/vi/p0djiVtWdYA/0.jpg)](https://www.youtube.com/watch?v=p0djiVtWdYA)
 
 
 *The images are provided in different weather conditions:*
