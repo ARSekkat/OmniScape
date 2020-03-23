@@ -32,13 +32,13 @@ If you are interested in The OmniScape Dataset, please fulfill [This Form](https
 <a href="https://www.youtube.com/watch?v=Ob8ktcU_MWM&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Back.gif" width="425"/></a>
 <a href="https://www.youtube.com/watch?v=JY4yysszPI4&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Up.gif" width="425"/></a>
 
-The images are provided in different weather conditions:
-![](images/WeatherChanges.gif)
-
 Instance segmentation:
 
 <a href="https://www.youtube.com/watch?v=VwSSHnwQ5xc&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Front_inseg.gif" width="425"/></a>
 <a href="https://www.youtube.com/watch?v=xdb5uV5Rjq0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Down_inseg.gif" width="425"/></a>
+
+The images are provided in different weather conditions:
+![](images/WeatherChanges.gif)
 
 ### GTA V:
 <a href="https://www.youtube.com/watch?v=TndNQuGZv4A&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/GTA_Fisheye.gif" width="425"/></a>
