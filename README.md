@@ -37,7 +37,7 @@ Instance segmentation:
 <a href="https://www.youtube.com/watch?v=VwSSHnwQ5xc&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Front_inseg.gif" width="425"/></a>
 <a href="https://www.youtube.com/watch?v=xdb5uV5Rjq0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Down_inseg.gif" width="425"/></a>
 
-The images are provided in different weather conditions:
+The images are provided in different weather and lighting conditions:
 ![](images/WeatherChanges.gif)
 
 ### GTA V:
