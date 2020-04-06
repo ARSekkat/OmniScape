@@ -39,28 +39,28 @@ If you are interested in our dataset, fulfill [This Form](https://forms.gle/XSrU
 ## Demos:
 
 ### CARLA simulator: 
-<a href="https://www.youtube.com/watch?v=mPKxEr0iAtg&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Front.gif" width="425"/></a>
-<a href="https://www.youtube.com/watch?v=p0djiVtWdYA&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Down.gif" width="425"/></a>
-<a href="https://www.youtube.com/watch?v=Ob8ktcU_MWM&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Back.gif" width="425"/></a>
-<a href="https://www.youtube.com/watch?v=JY4yysszPI4&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Up.gif" width="425"/></a>
+<a href="https://www.youtube.com/watch?v=mPKxEr0iAtg&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Front.gif" width="434"/></a>
+<a href="https://www.youtube.com/watch?v=p0djiVtWdYA&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Down.gif" width="434"/></a>
+<a href="https://www.youtube.com/watch?v=Ob8ktcU_MWM&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Back.gif" width="434"/></a>
+<a href="https://www.youtube.com/watch?v=JY4yysszPI4&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Up.gif" width="434"/></a>
 
 Instance segmentation:
 
-<a href="https://www.youtube.com/watch?v=VwSSHnwQ5xc&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Front_inseg.gif" width="425"/></a>
-<a href="https://www.youtube.com/watch?v=xdb5uV5Rjq0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Down_inseg.gif" width="425"/></a>
+<a href="https://www.youtube.com/watch?v=VwSSHnwQ5xc&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Fisheye_Front_inseg.gif" width="434"/></a>
+<a href="https://www.youtube.com/watch?v=xdb5uV5Rjq0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Catadioptric_Down_inseg.gif" width="434"/></a>
 
 For each capture stereo 360° cubemap and equirectangular images are also provided:
 
-<a href="https://www.youtube.com/watch?v=9iQcYbET320&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Equirectangular_Right.gif" width="425"/></a>
-<a href="https://www.youtube.com/watch?v=9iQcYbET320&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Equirectangular_Left.gif" width="425"/></a>
-<a href="https://www.youtube.com/watch?v=fEjJFAKrXm0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Cubemap_Left.gif" width="425"/></a>
-<a href="https://www.youtube.com/watch?v=fEjJFAKrXm0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Cubemap_Right.gif" width="425"/></a>
+<a href="https://www.youtube.com/watch?v=9iQcYbET320&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Equirectangular_Right.gif" width="434"/></a>
+<a href="https://www.youtube.com/watch?v=9iQcYbET320&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Equirectangular_Left.gif" width="434"/></a>
+<a href="https://www.youtube.com/watch?v=fEjJFAKrXm0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Cubemap_Left.gif" width="434"/></a>
+<a href="https://www.youtube.com/watch?v=fEjJFAKrXm0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Cubemap_Right.gif" width="434"/></a>
 
 The images are provided in different weather and lighting conditions:
 ![](images/WeatherChanges.gif)
 
 ### GTA V:
-<a href="https://www.youtube.com/watch?v=TndNQuGZv4A&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/GTA_Fisheye.gif" width="425"/></a>
-<a href="https://www.youtube.com/watch?v=L2JfevOPlTg&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/GTA_Catadioptric.gif" width="425"/></a>
+<a href="https://www.youtube.com/watch?v=TndNQuGZv4A&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/GTA_Fisheye.gif" width="434"/></a>
+<a href="https://www.youtube.com/watch?v=L2JfevOPlTg&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/GTA_Catadioptric.gif" width="434"/></a>
 
 **This work was supported by a RIN grant, Région Normandie, France*
