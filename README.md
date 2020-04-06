@@ -57,7 +57,7 @@ For each capture stereo 360° cubemap and equirectangular images are also provid
 <a href="https://www.youtube.com/watch?v=fEjJFAKrXm0&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/CARLA_Cubemap_Right.gif" width="434"/></a>
 
 The images are provided in different weather and lighting conditions:
-![](images/WeatherChanges.gif)
+<img src="images/WeatherChanges.gif" width="873"/>
 
 ### GTA V:
 <a href="https://www.youtube.com/watch?v=TndNQuGZv4A&list=PL4jFAx3iziLO9If7esOYJse2A86L68UBi"><img src="images/GTA_Fisheye.gif" width="434"/></a>
